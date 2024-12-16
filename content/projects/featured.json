@@ -1,0 +1,22 @@
+[
+	{
+		"project": "Base Aérea Cnel. Armando Escalón Espinal",
+		"descriptionTitle": "",
+		"description": "La base fue creada mediante Acuerdo N.º 00297, es la segunda unidad de aviación militar que se instaló en Honduras en el año 1969. Está ubicada en La Lima, Cortés y surgió a la luz pública con el nombre de Comando Norte, el que más tarde se volvería legendario por ser cuna de hechos y acontecimientos históricos. Los aviones Chance Vought F4U Corsair, North American T-28 Trojan y Lockheed T-33 Shooting Star fueron las primeras aeronaves con las que inicio operaciones este componente estratégico.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "2500", "w": "2500", "url": "/img/msc-mock_stack/base.svg" }
+		]
+	},
+	{
+		"project": "Reseña Histórica",
+		"description": " Tuvo como primer comandante al Mayor de Aviación EnriqueChinchilla Cárcamo y diez (10) oficiales pilotos bajo su mando. El tipo de avión con que inicia operaciones el comando norte fue el famoso corsario F4U-4 que escribió notas gloriosas de valor y heroísmo en los cielos de nuestra patria.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "mock-stack", "hover": "left", "h": "6000", "w": "6000",  "url": "/img/msc-mock_stack/fah.svg" }
+		]
+	}
+]

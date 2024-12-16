@@ -1,0 +1,32 @@
+{
+	"acknowledgments": [
+		
+	],
+
+	"links": [
+		{ 
+			"person": "YWFT Creative Marketplace",
+			"link": "https://www.youworkforthem.com/?aff=1115",
+			"note": "Best in class creative assets."
+		}
+	],
+
+	"social": [
+		{
+			"url": "https://medium.com/@--andrewnelson",
+			"icon": "medium"
+		},
+		{
+			"url": "https://dev.to/andrewnelson",
+			"icon": "dev"
+		},
+		{
+			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/atlamors",
+			"icon": "github"
+		}
+	]
+}

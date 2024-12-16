@@ -1,0 +1,15 @@
+{
+	"name": "FAH",
+	"logo": "/img/msc-mock_stack/base.svg",
+	
+	"username": {
+		"github": "",
+		"medium": ""
+	},
+
+	"portfolio": { 
+		"forkthis": "La Base Aérea Cnel. Armando Escalón Espinal contribuye    al   cumplimiento   del   mandato constitucional y se adapta a los nuevos retos y necesidades nacionales en apoyo al desarrollo del país, en todas aquellas tareas ordenadas por la superioridad.",
+		"repo_html": "https://www.github.com/atlamors/portfolio",
+		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
+	}
+}

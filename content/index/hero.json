@@ -1,0 +1,20 @@
+{
+	"intro": {
+		"start": "",
+		"end": "Semper Altius",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "",
+		"usp": "Base Aérea Cnel. Armando Escalón Espinal."
+	}
+
+
+	
+}
